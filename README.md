@@ -21,9 +21,9 @@
 
     ```sh
     npm install
-    cd APP-client
+    cd APP-Client
     npm install
-    cd ../APP-server
+    cd ../APP-Server
     npm install
     ```
 
